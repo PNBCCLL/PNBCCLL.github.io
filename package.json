@@ -1,7 +1,7 @@
 {
-  "name": "BP Designs Portfolio",
+  "name": "PNB Portfolio",
   "version": "1.0.0",
-  "description": "Personal Web Dev Portfolio",
+  "description": "Personal Portfolio",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o css/ --recursive"
